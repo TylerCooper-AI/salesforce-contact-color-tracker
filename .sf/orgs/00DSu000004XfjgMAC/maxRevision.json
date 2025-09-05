@@ -1,0 +1,90 @@
+{
+    "fileVersion": 0,
+    "serverMaxRevisionCounter": 374,
+    "sourceMembers": {
+        "PermissionSet__sfdcInternalInt__sfdc_scrt2": {
+            "memberType": "PermissionSet",
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Engagement_Case_Record_Page": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 330,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "PermissionSet__WFM_Presence_Config_Assignment": {
+            "memberType": "PermissionSet",
+            "serverRevisionCounter": 331,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Profile__Biztech-BSA": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 332,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__OmniChannelHistoryController": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 333,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__OmniChannelHistory": {
+            "memberType": "AuraDefinitionBundle",
+            "serverRevisionCounter": 343,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "AuraDefinition__OmniChannelHistory/OmniChannelHistory.cmp": {
+            "memberType": "AuraDefinition",
+            "serverRevisionCounter": 336,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "AuraDefinition__OmniChannelHistory/OmniChannelHistoryController.js": {
+            "memberType": "AuraDefinition",
+            "serverRevisionCounter": 339,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "AuraDefinition__OmniChannelHistory/OmniChannelHistoryHelper.js": {
+            "memberType": "AuraDefinition",
+            "serverRevisionCounter": 342,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "PermissionSetGroup__force__AgentforceServiceAgentUserPsg": {
+            "memberType": "PermissionSetGroup",
+            "serverRevisionCounter": 355,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "PermissionSetGroup__force__Manage_ASC_Analytics": {
+            "memberType": "PermissionSetGroup",
+            "serverRevisionCounter": 354,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.Favorite_Color__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 356,
+            "lastRetrievedFromServer": 356,
+            "isNameObsolete": false
+        },
+        "ValidationRule__Contact.Require_Favorite_Color": {
+            "memberType": "ValidationRule",
+            "serverRevisionCounter": 357,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Contact-Contact Default Page Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 374,
+            "lastRetrievedFromServer": 374,
+            "isNameObsolete": false
+        }
+    }
+}
