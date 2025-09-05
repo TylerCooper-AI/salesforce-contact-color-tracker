@@ -12,5 +12,9 @@
         <members>Contact-Contact Default Page Layout</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>Color_Greeting_Flow_Simple</members>
+        <name>Flow</name>
+    </types>
     <version>60.0</version>
 </Package>
